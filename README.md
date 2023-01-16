@@ -7,3 +7,4 @@ As of today, there are 58 Cocoa Producing countries in the world, producing an a
 Brazil, Cameroon, the Dominican Republic, Ecuador, Mexico, Nigeria, and Peru are additional top cocoa producers. West Africa produces more than 70% of the world's cocoa which accounts for the majority of cocoa used in mass-produced chocolate.
 
 Data Source: https://worldpopulationreview.com/country-rankings/cocoa-producing-countries 
+
